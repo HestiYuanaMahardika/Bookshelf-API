@@ -243,6 +243,6 @@
 
 ### Test Environments
 <center>
-<img src="https://github.com/HestiYuanaMahardika/Bookshelf-API//blob/master/Test Environments.png" width="800px">
+<img src="https://github.com/HestiYuanaMahardika/Bookshelf-API/blob/master/Test Environments.png" width="800px">
 </center>
 <br>
