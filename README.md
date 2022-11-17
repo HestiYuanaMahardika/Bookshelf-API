@@ -237,12 +237,12 @@
 
 ### Test Collections
 <center>
-<img src="https://github.com/HestiYuanaMahardika/Food-Recipes/blob/master/Test Collections.png" width="800px">
+<img src="https://github.com/HestiYuanaMahardika/Bookshelf-API/blob/master/Test Collections.png" width="800px">
 </center>
 <br>
 
 ### Test Environments
 <center>
-<img src="https://github.com/HestiYuanaMahardika/Food-Recipes/blob/master/Test Environments.png" width="800px">
+<img src="https://github.com/HestiYuanaMahardika/Bookshelf-API//blob/master/Test Environments.png" width="800px">
 </center>
 <br>
