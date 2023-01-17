@@ -1,4 +1,4 @@
-# **Belajar Membuat Aplikasi Back-End untuk Pemula**
+# **Belajar Membuat Aplikasi Back-End**
 
 # **Submission Bookshelf API**
 ## Kriteria 1 : API dapat menyimpan buku
